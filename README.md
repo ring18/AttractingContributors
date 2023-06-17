@@ -8,7 +8,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 3. RADWIMPS
 4. Bodyslam
 5. Official髭男dism
-6.
+6. BRADIO
 7.
 8.
 9.
