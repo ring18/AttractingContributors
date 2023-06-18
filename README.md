@@ -10,6 +10,6 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 5. Official髭男dism
 6. BRADIO
 7. Hakubi
-8.　　King Gnu
-9. Sumika
-10.
+8. King Gnu
+9. MayDay
+10. Sumika
