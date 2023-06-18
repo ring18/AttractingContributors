@@ -13,3 +13,17 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 8. King Gnu
 9. MayDay
 10. Sumika
+11. 
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
