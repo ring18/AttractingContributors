@@ -23,6 +23,7 @@ I like orca the best! cool!
 - octopus
 - Sacabambaspis
 - Moray
+- Squid
 - 
 - 
 - 
